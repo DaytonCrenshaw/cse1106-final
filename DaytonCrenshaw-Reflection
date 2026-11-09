@@ -1,1 +1,6 @@
-
+1. Used my Raspberry Pi, made the hardware connections, and helped with the code
+2. The most challenging problem we encountered was connecting the Pi to github in order to push the changes we made.
+3. We tested to see if the capacity limit worked by putting in more people into the room than it could hold. The light should turn on when the room is full, but it did not, 
+   so we knew we had to add another condition to test that and not allow any more people to enter the room.
+4. The skills that were most useful were knowing how to work with the breadboard and making a github repository.
+5. One thing I would improve is to make the machine work automatically. Being able to see when people enter and exit the room on its own and keep track off everything.
